@@ -5,4 +5,7 @@ You can also send base64 text of your encrypted message to a freind easily. This
 
 In order to unzip the folder that contains the EXE & data to execute you have to use 7zip
 
+The code is also contained here so i guess you could compile your own version if you where smart enough,
+but its probably just easier to extract the file with 7Zip.
+
 7zip download: https://www.7-zip.org/
