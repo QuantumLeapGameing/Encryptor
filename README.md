@@ -1,6 +1,8 @@
 # Encryptor
-in order to unzip the folder you have to get 7zip
-now you may be asking why i didn't use a zip file
-and to that i answer "its wasn't compressed enough"
-becuse 7z files are really compressed i could upload it
-anyways here is 7zip download: https://www.7-zip.org/
+
+This program allows you to store messages in encrypted .SV files that are organized with a XML parsed dictionary data struct.
+You can also send base64 text of your encrypted message to a freind easily. This is all with the security of RSA 4096.
+
+In order to unzip the folder that contains the EXE & data to execute you have to use 7zip
+
+7zip download: https://www.7-zip.org/
